@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3e98999d2795a1c47a011e4705c14b9a
+  - enabled: 1
+    path: Assets/Scenes/GameGuidelines.unity
+    guid: 2781f58d37ad4c54a82deebe36c0fc3d
+  - enabled: 1
+    path: Assets/Scenes/FirstLevelScene.unity
+    guid: 3bdbd724078ff324bb7726647134cc79
+  - enabled: 1
+    path: Assets/Scenes/FirstLevelConversationScene.unity
+    guid: e419551ef83ac4d4aae476f64f4e53d9
+  - enabled: 1
+    path: Assets/Scenes/SecondLevelScene.unity
+    guid: 79e29736ffa1d0f4c95137c73e9f19cb
+  - enabled: 1
+    path: Assets/Scenes/SecondLevelConversation.unity
+    guid: 9c8c9dc4125a58b4d88a47d87ff192fc
+  - enabled: 1
+    path: Assets/Scenes/ThirdLevelScene.unity
+    guid: 035a3d9925947de4fa736ef6c3a121ea
+  - enabled: 1
+    path: Assets/Scenes/ThirdLevelConversation.unity
+    guid: d1ee64e8ea6f95f489f434216b1a20d2
+  - enabled: 1
+    path: Assets/Scenes/FirstLevelGameOver.unity
+    guid: a00046f9f353eec44a720b8dd1d652fa
+  - enabled: 1
+    path: Assets/Scenes/SecondLevelGameOver.unity
+    guid: ab76af910d3f4124c939cafe66504eab
+  - enabled: 1
+    path: Assets/Scenes/ThirdLevelGameOver.unity
+    guid: 0802221fb75668843a2142b58bcf48f7
+  m_configObjects: {}
